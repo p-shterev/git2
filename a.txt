@@ -1,4 +1,6 @@
 a
+op tuk edno
 v
+op tuk vtoro	
 b
 
